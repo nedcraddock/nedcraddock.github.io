@@ -6,8 +6,9 @@ _App Design Draft_ helps you to understand the basics of the layout and links be
 _App Design Prototype (unfinished)_ is an introduction to putting together the front-end of an app to create pages that can be linked together and changed between in a single click.
 
 ## Day 2
-**To be completed:** _Analyse website_ and make suggestions to improvements for it.
-_Can't remember the rest_
+**Completed**
+_Analyse website and competition_ to find the improvements to be made (simpler descriptions with shorter, punchier paragraphs),(more graphics - graphs, print screens, diagrams - to be more appealing to the Developers).Although there was no direct competition, other similar companies had simpler designs across their websites.
+_Learnt how to use Ctrl Z_ because it means **UNDO!**
 
 ## Day 3
 _No idea_
