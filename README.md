@@ -11,4 +11,8 @@ _Analyse website and competition_ to find the improvements to be made (simpler d
 _Learnt how to use Ctrl Z_ because it means **UNDO!**
 
 ## Day 3
-_No idea_
+
+## Week 2
+
+_Began creating wireframes_ for a website on Marvel App as a template for displaying and selling a bedside table.
+_Created customizable areas_ of the table to 
